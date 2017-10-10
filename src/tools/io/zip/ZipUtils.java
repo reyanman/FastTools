@@ -1,4 +1,4 @@
-package com.geqi.io.zip;
+package tools.io.zip;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
